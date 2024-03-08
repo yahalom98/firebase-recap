@@ -1,1 +1,7 @@
-# firebase-recap
+# Collection 
+# addDoc
+
+
+<!-- Auth -->
+# auth
+# createEmailAndPasswordWith()
